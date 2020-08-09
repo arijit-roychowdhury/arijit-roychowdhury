@@ -35,6 +35,6 @@
 <br />
 
 <img align="left" alt="Arijit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arijit-roychowdhury&show_icons=true&theme=dracula" />
-<br />
+
 [arijit!]: https://github.com/arijit-roychowdhury
 [codepen]: https://codepen.io/arijit-roychowdhury
