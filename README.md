@@ -2,7 +2,7 @@
 
 ### I'm a passionate and self-taught **Front-End Developer!**
 
-- 🔭 I’m currently working on a Javascript Project!
+- 🔭 I’m currently working on a Javascript Project!!
 - 🌱 I’m currently learning React 📚
 - 👯 I’m looking to collaborate with other on Github
 - 🥅 2020 Goals: Learn Full-Stack Developement & will start contributing to Open Source projects
