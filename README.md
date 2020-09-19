@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other on Github
 - 🥅 2020 Goals: Learn Full-Stack Developement & will start contributing to Open Source projects
 
-### Connect with me::
+### Connect with me:
 
 [<img align="left" alt="Arijit Roy Chowdhury | Instagram" width="22px" style="fill: red;" src="https://github.com/arijit-roychowdhury/arijit-roychowdhury/blob/master/assets/codepen-brands.svg" />][codepen]
 
