@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Javascript Project!
 - 🌱 I’m currently learning React 📚
 - 👯 I’m looking to collaborate with other on Github
-- 🥅 2021 Goals: Learn Full-Stack Developement & will start contributing to Open Source projects
+- 🥅 2022 Goals: Learn MERN-Stack Developement & will start contributing to Open Source projects
 
 ### Connect with me:
 
