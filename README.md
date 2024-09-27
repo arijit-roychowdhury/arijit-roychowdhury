@@ -2,10 +2,10 @@
 
 ### I'm a passionate and self-taught **Front-End Developer!**
 
-- 🔭 I’m currently working on a React Project!
-- 🌱 I’m currently learning Azure Cloud Technology 📚
+- 🔭 I’m currently working on a Svelte Project!
+- 🌱 I’m currently learning MERN-Stack 📚
 - 👯 I’m looking to collaborate with other on Github
-- 🥅 2023 Goals: Learn MERN-Stack Developement & will start contributing to Open Source projects
+- 🥅 2024-25 Goals: Learn MERN-Stack Developement & will start contributing to Open Source projects
 
 ### Connect with me:
 
